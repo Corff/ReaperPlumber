@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="eeeeeee_data" version="1.3.0" audacityversion="2.3.0" sel0="0.0000000000" sel1="209.5717500000" vpos="0" h="0.0000000000" zoom="33.8929451255" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="TITLE" value="Dreamscape (Reelaux remix)"/>
+		<tag name="Software" value="Lavf58.20.100"/>
+		<tag name="ARTIST" value="009 Sound System"/>
+	</tags>
+	<wavetrack name="Lucio&apos;s day with the members of Overwatch" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="118693">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c54.au" len="118693" min="-0.822796" max="0.831125" rms="0.185592"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Lucio&apos;s day with the members of Overwatch" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="118693">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808932.au" len="118693" min="-0.499277" max="0.401092" rms="0.077613"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Trance - 009 Sound System Dreamscape" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="4000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="209.57191937" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="100000">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808db6.au" len="100000" min="-0.543653" max="0.497818" rms="0.075436"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="838287">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cb7.au" len="9678" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="9678">
+					<simpleblockfile filename="e0808148.au" len="176722" min="-1.168957" max="1.098993" rms="0.303459"/>
+				</waveblock>
+				<waveblock start="186400">
+					<simpleblockfile filename="e0808b08.au" len="177641" min="-1.178628" max="1.160784" rms="0.302107"/>
+				</waveblock>
+				<waveblock start="364041">
+					<simpleblockfile filename="e080868a.au" len="237123" min="-1.138409" max="1.107427" rms="0.312571"/>
+				</waveblock>
+				<waveblock start="601164">
+					<simpleblockfile filename="e0808944.au" len="237123" min="-1.176873" max="1.112615" rms="0.304777"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Trance - 009 Sound System Dreamscape" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="4000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="209.57191937" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="100000">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808104.au" len="100000" min="-0.543662" max="0.497819" rms="0.075436"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="838287">
+				<waveblock start="0">
+					<simpleblockfile filename="e08081b4.au" len="9678" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="9678">
+					<simpleblockfile filename="e08083c7.au" len="176722" min="-1.16898" max="1.098935" rms="0.303459"/>
+				</waveblock>
+				<waveblock start="186400">
+					<simpleblockfile filename="e0808c92.au" len="177641" min="-1.178684" max="1.160813" rms="0.302107"/>
+				</waveblock>
+				<waveblock start="364041">
+					<simpleblockfile filename="e0808765.au" len="237123" min="-1.138502" max="1.107573" rms="0.312571"/>
+				</waveblock>
+				<waveblock start="601164">
+					<simpleblockfile filename="e0808f3f.au" len="237123" min="-1.176886" max="1.112537" rms="0.304777"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
